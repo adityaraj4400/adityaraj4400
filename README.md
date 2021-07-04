@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adutya Raj
+- 👋 Hi, I’m Aditya Raj
 - 👀 I’m interested in problem solving, open source contribution, data structures and algorithm etc
 - 🌱 I’m currently a 2nd year student at CV Raman Global University Bhubaneswar
 
